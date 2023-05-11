@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\FinalProject\FinalProject\functions.h(33,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\User\source\repos\FinalProject\FinalProject\functions.h(525,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\FinalProject\FinalProject\functions.h(551,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\FinalProject\FinalProject\functions.h(737,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\FinalProject\FinalProject\Source.cpp(13,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\FinalProject\FinalProject\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\User\source\repos\FinalProject\x64\Debug\FinalProject.exe
